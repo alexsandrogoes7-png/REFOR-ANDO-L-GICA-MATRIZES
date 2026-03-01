@@ -1,4 +1,4 @@
-algoritmo "JOGO.002"
+algoritmo "JOGO.001"
 var
    m:vetor[1..3,1..3]de caracter
    cont:inteiro
